@@ -1,2 +1,2 @@
-# Atrqutectura del software
+# Arqutectura del software
 Ejercicio de arquitectura del software
