@@ -1,2 +1,2 @@
-# architecture_exercise
+# Atrqutectura del software
 Ejercicio de arquitectura del software
