@@ -1,4 +1,4 @@
-# ARQUITECTURA DEL SOFWARE
+# ARQUITECTURA DEL SOFTWARE
 
   **Estudiante:** Cristian David Fajardo.
   
